@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "contentful": "^10.6.5",
     "eslint": "8.52.0",
     "eslint-config-next": "14.0.1",
+    "install": "^0.13.0",
     "next": "14.0.1",
+    "npm": "^10.2.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
